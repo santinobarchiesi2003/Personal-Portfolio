@@ -1,6 +1,4 @@
-*{
-    background-color: black;
-}
+
 
 a{
     color: #4f4f49;
@@ -8,4 +6,8 @@ a{
 
 .logo{
     height: 55px;
+}
+
+.capturas{
+    background-image: url(img/fondo_para_cap.png);
 }
